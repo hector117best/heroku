@@ -1,8 +1,16 @@
+
+
+<!DOCTYPE html> 
+<html lang="es">
+
+
+
+
 <?php
 
-echo "<h1> TÍTULO </h1><br/>"; 
+echo "<h1> DORAEMON </h1><br/>"; 
 
-echo "<p> Texto dela página .... </p>";
+echo "<p> doraemon es un tio muy way </p>";
 
 echo "<p> Texto dela página .... </p>";
 
@@ -14,3 +22,7 @@ echo "<p> Texto dela página .... </p>
      ";
 
 ?>
+
+
+
+</html>
