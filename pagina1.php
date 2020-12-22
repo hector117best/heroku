@@ -1,7 +1,6 @@
 
 
-<!DOCTYPE html> 
-<html lang="es">
+
 
 
 
@@ -15,7 +14,7 @@ echo "<p> DATOS</p><p> Doraemon es un personaje ficticio protagonista de la seri
 echo "<p> CURIOSIDADES</p>
 <span> Doraemon fue concebido originalmente por Hiroshi Fujimoto tras una serie de tres hechos: mientras él estaba pensando en ideas para un nuevo manga y pensaba que sería ideal que existiera una máquina que le diera ideas, fue entonces cuando tropezó con el juguete de su hija y seguidamente, sintió una pelea de gatos en su vecindario</span>";
 
-
+echo "<p><img   src="image/descargar (1).jpg" width= "1300" height="500" align="center"/></p>";
 
 
  
